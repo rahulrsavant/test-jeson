@@ -8,7 +8,6 @@ phases:
     commands:
       - echo Entered the build phase.......
       - mvn clean package
-      - echo "Built JAR file is located at: $(find . -name '*.jar')"
   post_build:
     commands:
       - echo Build completed successfully
