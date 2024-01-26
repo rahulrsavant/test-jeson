@@ -1,0 +1,37 @@
+# Compiled class file
+/target/
+
+# Log file
+*.log
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbmetadata/
+
+# Gradle
+.gradle/
+/build/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled Java class files
+*.class
+
